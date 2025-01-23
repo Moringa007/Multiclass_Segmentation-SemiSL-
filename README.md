@@ -1,2 +1,2 @@
-# Multiclass_Segmentation-SemiSL-
-This project is to improve the multiple class image segmentation by applying multiple step pretraining
+# Multiclass_Segmentation_ Semi-supervised Contrastive Learning
+This project seeks to improve the multiple-class image segmentation by applying multiple-step pretraining
