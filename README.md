@@ -11,3 +11,5 @@ to run the 2nd step:
 # Segmenation training
 - python training.py
 
+# Some examples from MM-WHS dataset
+![result_example](https://github.com/user-attachments/assets/f0512d4a-0dbd-484d-bb7a-ba1d7ec09924)
