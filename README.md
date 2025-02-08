@@ -4,10 +4,10 @@ This project seeks to improve multiple-class image segmentation by applying mult
 # Pre-training
 We train the model encoder in unsupervised learning by using the Contrastive loss
 to run the 1st step:
-python 1step_pretraining.py
+- python 1step_pretraining.py
 to run the 2nd step:
-python 2step_pretraining.py
+- python 2step_pretraining.py
 
 # Segmenation training
-python training.py
+- python training.py
 
